@@ -12,3 +12,5 @@ This is my repository for all of my activities of my DSALGO1 class
 11/15/2024 - Activity 1 Finals
 
 11/22/2024 - Activity 2 Finals
+
+6/12/2024 - Team Project #1 and #2
